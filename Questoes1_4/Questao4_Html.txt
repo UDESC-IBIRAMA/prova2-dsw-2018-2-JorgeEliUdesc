@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Ajax</title>
+		<script src="App.js"defer></script>
+		<script src="ExemploAjax.js" defer></script>
+	</head>
+	<body>
+		<form>
+			Personagem:
+			<input type="text" id="person-text"/>
+			<input type="submit" value="Pesquisar"/>
+		</form>
+		
+		<div id="container"></div>
+	</body>
+	</html>
